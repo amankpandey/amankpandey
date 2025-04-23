@@ -1,4 +1,4 @@
-# Hello, I'm amankpandey 👋
+# Hello, I'm Aman Pandey👋
 
 ![Anime Profile Banner](https://github.com/user-attachments/assets/3fe8a323-2bf2-4598-997d-86bf04fc31a5)
 
