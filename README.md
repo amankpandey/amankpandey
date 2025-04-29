@@ -1,19 +1,34 @@
-# Hello, I'm Aman Pandey👋
-
-![Anime Profile Banner](https://github.com/user-attachments/assets/3fe8a323-2bf2-4598-997d-86bf04fc31a5)
-
+# 👋 Hello, I'm Aman Pandey(byteakp)
 
 ## About Me
-I'm a passionate developer who enjoys building practical solutions to real-world problems. Despite the humble username, I strive to write clean, efficient code and continuously improve my skills. My anime-inspired approach brings creativity and precision to everything I build.
+Software developer passionate about transforming ideas into elegant, functional solutions. I enjoy tackling complex problems and building tools that make a difference.
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=byteakp&show_icons=true&theme=dark)
-- [LinkedIn](https://www.linkedin.com/in/amanxxpandey/) - Let's connect professionally
-- [Twitter](#) - Follow me for updates on my projects
-- [Personal Website](https://web-portfolio-sepia-beta.vercel.app/) - Check out my portfolio
+## 🚀 Technologies & Skills
+```
+Frontend    | JavaScript, React, TypeScript, HTML/CSS
+Backend     | Node.js, Express, Python, Django
+Database    | MongoDB, Supabase, MySQL
+DevOps      | Docker, CI/CD, AWS
+Tools       | Git, GitHub Actions, VS Code , Vim
+```
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byteakp&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteakp&layout=compact&theme=dracula)
 
-## 💬 Get In Touch
-Feel free to reach out if you have questions about any of my repositories or if you're interested in collaborating on a project!
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanxxpandey)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AmanPandey_x)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mine-portfolio-beta.vercel.app/)
+
+## 💡 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [MiniAPI - The Lightweight Node.js API Framework](https://amansnew.hashnode.dev/miniapi-the-lightweight-nodejs-api-framework)
+<!-- BLOG-POST-LIST:END -->
 
 ---
-⭐️ From [losercodes](https://github.com/byteakp)
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+---
+
+⭐️ From [byteakp](https://github.com/byteakp)
