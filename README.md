@@ -23,6 +23,7 @@ Tools       | Git, GitHub Actions, VS Code , Vim
 ## 💡 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [MiniAPI - The Lightweight Node.js API Framework](https://amansnew.hashnode.dev/miniapi-the-lightweight-nodejs-api-framework)
+- [Supercharge Your Docker Workflow with the Container Optimization Tool (COT)](https://amansnew.hashnode.dev/supercharge-your-docker-workflow-with-the-container-optimization-tool-cot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
