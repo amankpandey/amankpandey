@@ -17,15 +17,8 @@
 </div>
 
 ```
-Solo coder and anime enthusiast transforming caffeine into code.
-By day, I craft elegant digital solutions; by night, I explore 
-virtual worlds and anime universes. My keyboard is my katana, 
-and bugs fear my debugging jutsu.
+My keyboard, a katana, slices bugs with debug jutsu—mastery in every keystroke.
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-</div>
 
 ## 🔮 Tech Arsenal
 
@@ -98,9 +91,7 @@ and bugs fear my debugging jutsu.
 
 ## 📡 Telepathic Connection (Find Me)
 
-<div align="center">
-  <img src="https://i.imgur.com/xJxpbth.gif" width="300">
-  
+<div align="center"> 
   <br>
   <a href="https://linkedin.com/in/amanxxpandey">
     <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn"/>
