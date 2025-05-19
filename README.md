@@ -1,9 +1,5 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Yo! I'm Aman Pandey (byteakp) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Master+Developer;Anime+Enthusiast;Code+Artist;Bug+Slayer;Full-Stack+Ninja" alt="Typing SVG" />
-</div>
-
 > *"I code like I watch anime - with passion, dedication, and often until 3 AM."*
 
 <p align="center">
