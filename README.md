@@ -34,9 +34,6 @@ My keyboard, a katana, slices bugs with debug jutsu—mastery in every keystroke
 🧰 Tools       | Git, GitHub Actions, VS Code, Vim (My trusty companions)
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
 
 ## ⚡ Power Levels (GitHub Stats)
 
