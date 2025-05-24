@@ -33,6 +33,9 @@ My keyboard, a katana, slices bugs with debug jutsu—mastery in every keystroke
 🚀 DevOps      | Docker, CI/CD, AWS (My summons in battle)
 🧰 Tools       | Git, GitHub Actions, VS Code, Vim (My trusty companions)
 ```
+### 🛠️ Open Source Contributions
+- **LangChain** — [PR #31327](https://github.com/langchain-ai/langchain/pull/31327)
+  - Fixed a documentation bug where retriever descriptions were getting cut off in the overview table.
 
 
 ## ⚡ Power Levels (GitHub Stats)
