@@ -1,91 +1,84 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Yo! I'm Aman Pandey (byteakp) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-> *"I code like I watch anime - with passion, dedication, and often until 3 AM."*
+> *"I code with the determination of Saitama and the precision of a waifu's perfect frame."*
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="500">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2b169bdd1.gif" width="500">
   <br>
+  <em>One Code, One Solution! 💪</em>
 </p>
 
 ## ✨ About Me
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/207/207963.gif" width="300">
-</div>
-
-```
-My keyboard, a katana, slices bugs with debug jutsu—mastery in every keystroke.
-```
-
-## 🔮 Tech Arsenal
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300">
+  <img src="https://media1.tenor.com/m/3HuKDQOUT7EAAAAC/saitama-one-punch-man.gif" width="300">
+  <br>
+  <em>"I became a developer for fun... but debugging isn't fun anymore."</em>
 </div>
-
 <div align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <img src="https://github.com/user-attachments/assets/44cf45c0-f43e-4f50-9446-0ec97904fb05" width="400">
 </div>
 
-```
-⚔️ Frontend    | JavaScript, React, TypeScript, HTML/CSS (Styled like anime UIs)
-🛡️ Backend     | Node.js, Express, Python, Django (Reliable as a shounen protagonist)
-💾 Database    | MongoDB, Supabase, MySQL (Where I store my power levels)
-🚀 DevOps      | Docker, CI/CD, AWS (My summons in battle)
-🧰 Tools       | Git, GitHub Actions, VS Code, Vim (My trusty companions)
-```
-### 🛠️ Open Source Contributions
-- **LangChain** — [PR #31327](https://github.com/langchain-ai/langchain/pull/31327)
-  - Fixed a documentation bug where retriever descriptions were getting cut off in the overview table.
-
-
-## ⚡ Power Levels (GitHub Stats)
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byteakp&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteakp&layout=compact&theme=tokyonight)
-
-<img src="https://github-profile-trophy.vercel.app/?username=byteakp&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true">
-
-<img src="https://media.tenor.com/images/5aa36bf07438810763e28b1c8e3f0b4e/tenor.gif" width="300">
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
-</div>
-
-## 📚 Scrolls of Knowledge (Blog Posts)
+## 🚀 Open Source Contributions
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/87/df/6d/87df6d73acc9a7a828d0314d5e9d7a73.gif" width="300">
+  <img src="https://i.pinimg.com/originals/54/3f/2e/543f2e8f4ad4a6d36e5eb59c6eedd93e.gif" width="350">
+  <br>
+  <em>Contributing to the anime... I mean, open source community! ⚔️</em>
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <a href="https://amansnew.hashnode.dev/miniapi-the-lightweight-nodejs-api-framework">
-          <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280">
-          <br>
-          <b>MiniAPI - The Lightweight Node.js API Framework</b>
-        </a>
+      <td align="center">
+        <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/dungeon-ni-deai-wo-motomeru.gif" width="200">
+        <br>
+        <b>Adobe Spectrum</b> — <a href="https://github.com/adobe/spectrum-css/pull/3883">PR #3883</a>
+        <br>
+        <em>Fixed CSS token bug for CJK fonts</em>
+        <br>
+        <sub>🎯 Corrected --spectrum-cjk-font reference</sub>
+        <br>
+        <sub>✨ Added proper changeset management</sub>
+        <br>
+        <sub>🧪 Tested across components like a true hero</sub>
       </td>
-      <td>
-        <a href="https://amansnew.hashnode.dev/supercharge-your-docker-workflow-with-the-container-optimization-tool-cot">
-          <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="280">
-          <br>
-          <b>Supercharge Your Docker Workflow with COT</b>
-        </a>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/1b795c25-5f98-4936-b68a-33e071cc56ef" width="200">
+        <br>
+        <b>LangChain</b> — <a href="https://github.com/langchain-ai/langchain/pull/31327">PR #31327</a>
+        <br>
+        <em>Documentation bug slayer</em>
+        <br>
+        <sub>📚 Fixed retriever descriptions in overview table</sub>
+        <br>
+        <sub>💝 Making docs kawaii again</sub>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## ⚡ Stats
 
-## 📡 Telepathic Connection (Find Me)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byteakp&show_icons=true&theme=tokyonight&hide_border=true)
+
+<img src="https://media.tenor.com/lICd3HSBx0IAAAAC/anime-computer.gif" width="300">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteakp&layout=compact&theme=tokyonight&hide_border=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=byteakp&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true">
+
+</div>
+
+## 📡 Connect With Me
+
+<div align="center">
+  <img src="https://media.tenor.com/M7Pj050qBXUAAAAC/anime-girl-computer.gif" width="350">
+  <br>
+  <em>Let's be friends! UwU</em>
+</div>
 
 <div align="center"> 
   <br>
@@ -98,9 +91,6 @@ My keyboard, a katana, slices bugs with debug jutsu—mastery in every keystroke
   <a href="https://mine-portfolio-beta.vercel.app/">
     <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firefoxbrowser.svg" alt="Portfolio"/>
   </a>
-  <a href="https://discord.com/">
-    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" alt="Discord"/>
-  </a>
   <br>
   
   <img src="https://count.getloli.com/get/@:byteakp" alt="Visitor Count" />
@@ -109,16 +99,27 @@ My keyboard, a katana, slices bugs with debug jutsu—mastery in every keystroke
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/72/b4/49/72b44950cee375940bfc79c0e4babf51.gif" width="300">
+  <img src="https://media.tenor.com/KPeC2m_bWm8AAAAC/one-punch-man-okay.gif" width="200">
+  <br>
+  <em>OK.</em>
 </p>
 
-> *"Code is like anime - when it's well-written, it can change the world."*
+<div align="center">
+  <img src="https://media.tenor.com/EK1WGrVuhs8AAAAC/anime-girl-typing.gif" width="350">
+</div>
 
-<p align="right">
+> *"Every commit is like a perfectly animated fight scene - it should be flawless, impactful, and leave everyone amazed."*
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=byteakp&color=blueviolet" alt="Profile views">
   <br>
-  Made with ❤️ and a lot of anime references
+  Made with ❤️, lots of anime, and the power of friendship
 </p>
 
 ---
-⭐️ From [byteakp](https://github.com/byteakp)
+
+<div align="center">
+  <img src="https://media.tenor.com/FhSU4E_XuFkAAAAC/anime-thumbs-up.gif" width="150">
+  <br>
+  <span style="font-size:18px;">⭐️</span> Made with style by <a href="https://github.com/byteakp" target="_blank"><b>@byteakp</b></a>
+</div>
