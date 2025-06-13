@@ -18,46 +18,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44cf45c0-f43e-4f50-9446-0ec97904fb05" width="400">
 </div>
-
-## 🚀 Open Source Contributions
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/54/3f/2e/543f2e8f4ad4a6d36e5eb59c6eedd93e.gif" width="350">
-  <br>
-  <em>Contributing to the anime... I mean, open source community! ⚔️</em>
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/dungeon-ni-deai-wo-motomeru.gif" width="200">
-        <br>
-        <b>Adobe Spectrum</b> — <a href="https://github.com/adobe/spectrum-css/pull/3883">PR #3883</a>
-        <br>
-        <em>Fixed CSS token bug for CJK fonts</em>
-        <br>
-        <sub>🎯 Corrected --spectrum-cjk-font reference</sub>
-        <br>
-        <sub>✨ Added proper changeset management</sub>
-        <br>
-        <sub>🧪 Tested across components like a true hero</sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/1b795c25-5f98-4936-b68a-33e071cc56ef" width="200">
-        <br>
-        <b>LangChain</b> — <a href="https://github.com/langchain-ai/langchain/pull/31327">PR #31327</a>
-        <br>
-        <em>Documentation bug slayer</em>
-        <br>
-        <sub>📚 Fixed retriever descriptions in overview table</sub>
-        <br>
-        <sub>💝 Making docs kawaii again</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## ⚡ Stats
 
 <div align="center">
