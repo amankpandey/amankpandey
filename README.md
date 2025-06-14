@@ -18,17 +18,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44cf45c0-f43e-4f50-9446-0ec97904fb05" width="400">
 </div>
-## ⚡ Stats
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byteakp&show_icons=true&theme=tokyonight&hide_border=true)
-
-<img src="https://media.tenor.com/lICd3HSBx0IAAAAC/anime-computer.gif" width="300">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteakp&layout=compact&theme=tokyonight&hide_border=true)
-
-<img src="https://github-profile-trophy.vercel.app/?username=byteakp&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true">
 
 </div>
 
